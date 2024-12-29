@@ -80,6 +80,7 @@ Developed by: V.Patrick Alex Emmanuel
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 ![Screenshot 2024-12-23 110340](https://github.com/user-attachments/assets/1e5056a5-6abb-4a3e-9419-a52e7558c109)
+
 **RESULTS**
 
 sucessfully implemented  JK flipflop using verilog and validating their functionality using their functional tables
